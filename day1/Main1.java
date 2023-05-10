@@ -5,12 +5,20 @@ class Main1 {
         System.out.println("Hello");
         System.out.println("ABC");
         System.out.println("----------");
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println("C");
+        System.out.println("ABC");
+        System.out.println("DEF");
+        System.out.println("GHI");
         System.out.println("----------");
-        System.out.print("A");
-        System.out.print("B");
-        System.out.print("C");
+        System.out.print("ABC");
+        System.out.print("DEF");
+        System.out.print("GHI");
+        System.out.println("----------");
+        System.out.println("----------");
+        System.out.print("ABC\n");
+        System.out.print("DEF\n");
+        System.out.print("GHI\n");
+        System.out.println("----------");
+        System.out.print("もしもし\nこんにちは\n\nさようなら\n");
+        System.out.println("----------");
     }
 }
